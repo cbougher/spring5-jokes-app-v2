@@ -9,7 +9,7 @@ import org.springframework.context.ApplicationContext;
 public class Spring5JokesAppV2Application {
 
 	public static void main(String[] args) {
-		ApplicationContext ctx = SpringApplication.run(Spring5JokesAppV2Application.class, args);
+		SpringApplication.run(Spring5JokesAppV2Application.class, args);
 	}
 
 }
